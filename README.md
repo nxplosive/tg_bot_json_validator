@@ -2,4 +2,6 @@
 ___
 Этот бот принимает на входе JSON в любом виде, а в ответ присылает или красивый вид, или информацию, где есть ошибка в структуре JSON.
 
-![Pepe](picture/pepe.jpg)
+<p  align="left">  
+  <code><img width="25%" title="Pepe" src="picture/pepe.jpg"></code>
+</p>
